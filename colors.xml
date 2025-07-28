@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Theme Colors -->
+    <color name="colorPrimary">#008080</color>
+    <color name="colorPrimaryDark">#006666</color>
+    <color name="colorAccent">#FF9800</color>
+
+    <!-- Button Colors -->
+    <color name="doctor_info_button">#009688</color>
+    <color name="services_button">#4CAF50</color>
+    <color name="appointments_button">#03A9F4</color>
+    <color name="contact_button">#FF9800</color>
+
+    <!-- Text Colors -->
+    <color name="text_heading">#008080</color>
+    <color name="text_button">#FFFFFF</color>
+
+    <!-- Background Colors -->
+    <color name="background_light">#FFFFFF</color>
+    <color name="background_dark">#F5F5F5</color>
+
+    <!-- Material Colors for Compatibility -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+</resources>
